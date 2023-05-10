@@ -1,0 +1,2315 @@
+[
+ {
+  "id": "cars",
+  "name": "Легковой",
+  "group": "cars",
+  "list": {
+   "AC": [
+    "378 GT Zagato",
+    "Ace",
+    "Aceca",
+    "Cobra"
+   ],
+   "Acura": [
+    "CL",
+    "CSX",
+    "EL",
+    "ILX",
+    "Integra",
+    "Legend",
+    "MDX",
+    "NSX",
+    "RDX",
+    "RL",
+    "RLX",
+    "RSX",
+    "SLX",
+    "TL",
+    "TLX",
+    "TSX",
+    "ZDX"
+   ],
+   "Adler": [
+    "Diplomat",
+    "Trumpf Junior"
+   ],
+   "Alfa Romeo": [
+    "105/115",
+    "145",
+    "146",
+    "147",
+    "155",
+    "156",
+    "159",
+    "164",
+    "166",
+    "1900",
+    "2600",
+    "33",
+    "4C",
+    "6",
+    "6C",
+    "75",
+    "8C Competizione",
+    "90",
+    "Alfasud",
+    "Alfetta",
+    "Arna",
+    "Brera",
+    "Disco Volante",
+    "Giulia",
+    "Giulietta",
+    "GT",
+    "GTA Coupe",
+    "GTV",
+    "MiTo",
+    "Montreal",
+    "RZ",
+    "Spider",
+    "Sprint",
+    "Stelvio",
+    "SZ"
+   ],
+   "Alpina": [
+    "B10",
+    "B11",
+    "B12",
+    "B3",
+    "B4",
+    "B5",
+    "B6",
+    "B7",
+    "B8",
+    "B9",
+    "C1",
+    "C2",
+    "D10",
+    "D3",
+    "D4",
+    "D5",
+    "Roadster",
+    "XD3",
+    "XD4"
+   ],
+   "Alpine": [
+    "A110",
+    "A310",
+    "A610",
+    "GTA"
+   ],
+   "AM General": [
+    "HMMWV (Humvee)"
+   ],
+   "AMC": [
+    "Eagle",
+    "Hornet"
+   ],
+   "Apal": [
+    "21541 Stalker"
+   ],
+   "Ariel": [
+    "Atom"
+   ],
+   "Aro": [
+    "10",
+    "24 аро"
+   ],
+   "Asia": [
+    "Retona",
+    "Rocsta",
+    "Topic"
+   ],
+   "Aston Martin": [
+    "Bulldog",
+    "Cygnet",
+    "DB AR1",
+    "DB11",
+    "DB5",
+    "DB7",
+    "DB9",
+    "DBS",
+    "DBX",
+    "Lagonda",
+    "One-77",
+    "Rapide",
+    "Tickford Capri",
+    "V12 Vantage",
+    "V12 Zagato",
+    "V8 Vantage",
+    "V8 Zagato",
+    "Vanquish",
+    "Virage"
+   ],
+   "Audi": [
+    "demo"
+   ],
+   "Aurus": [
+    "demo"
+   ],
+   "Austin": [
+    "demo"
+   ],
+   "Austin Healey": [
+    "demo"
+   ],
+   "Autobianchi": [
+    "demo"
+   ],
+   "BAIC": [
+    "demo"
+   ],
+   "Bajaj": [
+    "demo"
+   ],
+   "Baltijas Dzips": [
+    "demo"
+   ],
+   "Batmobile": [
+    "demo"
+   ],
+   "Bentley": [
+    "demo"
+   ],
+   "Bertone": [
+    "demo"
+   ],
+   "Bilenkin": [
+    "demo"
+   ]
+  }
+ },
+ {
+  "id": "truck",
+  "name": "Грузовик",
+  "group": "commercial",
+  "list": {
+   "Altkam": [
+    "5443",
+    "6491",
+    "6550"
+   ],
+   "ASHOK LEYLAND": [
+    "BOSS",
+    "Partner"
+   ],
+   "ASTRA": [
+    "HD7 Serie",
+    "HD8 Serie",
+    "HD9 Serie"
+   ],
+   "Avia": [
+    "A21",
+    "A31",
+    "A60",
+    "A65",
+    "A75",
+    "A80",
+    "AD100",
+    "D - Series"
+   ],
+   "BAW": [
+    "Fenix"
+   ],
+   "Bedford": [
+    "TK"
+   ],
+   "Beiben (North Benz)": [
+    "ND3250"
+   ],
+   "BMC": [
+    "Fatih",
+    "Pro-518",
+    "Pro-617",
+    "Pro-620",
+    "Pro-622",
+    "Pro-625",
+    "Pro-628",
+    "Pro-822",
+    "Pro-827",
+    "Pro-832",
+    "Pro-935"
+   ],
+   "Bucher": [
+    "Duro",
+    "LTV"
+   ],
+   "C&C Trucks": [
+    "N332"
+   ],
+   "CAMC": [
+    "HN 3250",
+    "HN 3310"
+   ],
+   "Changan": [
+    "SC1030/1040"
+   ],
+   "Chevrolet": [
+    "Kodiak",
+    "T-Series",
+    "W-Series"
+   ],
+   "Daewoo": [
+    "demo"
+   ],
+   "DAF": [
+    "demo"
+   ],
+   "Daihatsu": [
+    "demo"
+   ],
+   "Dayun": [
+    "demo"
+   ],
+   "Dodge": [
+    "demo"
+   ],
+   "DongFeng": [
+    "demo"
+   ],
+   "FAW": [
+    "demo"
+   ],
+   "Ford": [
+    "demo"
+   ],
+   "Foton": [
+    "demo"
+   ],
+   "Freightliner": [
+    "demo"
+   ],
+   "Fuso (Mitsubishi)": [
+    "demo"
+   ],
+   "Ginaf": [
+    "demo"
+   ]
+  }
+ },
+ {
+  "id": "bus",
+  "name": "Автобус",
+  "group": "commercial",
+  "list": {
+   "AEC": [
+    "Routemaster"
+   ],
+   "Ajokki": [
+    "Sisu",
+    "КамАЗ-53213"
+   ],
+   "ANKAI": [
+    "A9",
+    "GK15",
+    "GK39",
+    "K32",
+    "K46",
+    "K55",
+    "K57",
+    "K59"
+   ],
+   "Asia": [
+    "Combi",
+    "Cosmos",
+    "Granbird"
+   ],
+   "Autosan": [
+    "A0808T Gemini",
+    "A0909L",
+    "A10-12T Lider",
+    "A1010M",
+    "A1010T Lider",
+    "A1112T Ramzes",
+    "Eurolider",
+    "H7-10",
+    "Sancity",
+    "Wetlina City"
+   ],
+   "Ayats": [
+    "Atlantis",
+    "Atlas 2",
+    "Bravo 1 City",
+    "Bravo 1 R",
+    "Bravo 2",
+    "Platinum"
+   ],
+   "BAW": [
+    "Express",
+    "Street"
+   ],
+   "Blue Bird": [
+    "CSRE/CSFE"
+   ],
+   "Bova": [
+    "Europa",
+    "Futura",
+    "Magiq"
+   ],
+   "Bristol": [
+    "Lodekka"
+   ],
+   "Citroen": [
+    "Jumper"
+   ],
+   "Cobus": [
+    "2700"
+   ],
+   "Daewoo": [
+    "BH-090",
+    "BH-115",
+    "BH-116",
+    "BH-117",
+    "BH-120",
+    "BM",
+    "BS-106",
+    "BX-212",
+    "FX 116",
+    "Lestar"
+   ],
+   "DAF": [
+    "demo"
+   ],
+   "Dethleffs": [
+    "demo"
+   ],
+   "DongFeng": [
+    "demo"
+   ],
+   "FAW": [
+    "demo"
+   ],
+   "Feniksbus": [
+    "demo"
+   ],
+   "Fiat Professional": [
+    "demo"
+   ],
+   "Fleetwood RV": [
+    "demo"
+   ],
+   "Ford": [
+    "demo"
+   ],
+   "Foton": [
+    "demo"
+   ],
+   "Foxbus": [
+    "demo"
+   ],
+   "Freightliner": [
+    "demo"
+   ],
+   "Fuso (Mitsubishi)": [
+    "demo"
+   ]
+  }
+ },
+ {
+  "id": "artic",
+  "name": "Седельный тягач",
+  "group": "commercial",
+  "list": {
+   "Almatruck": [
+    "SM321"
+   ],
+   "Beiben (North Benz)": [
+    "ND4250"
+   ],
+   "CAMC": [
+    "4x2",
+    "6x4"
+   ],
+   "Daewoo": [
+    "Novus",
+    "Prima"
+   ],
+   "DAF": [
+    "95",
+    "95XF",
+    "CF-series",
+    "XF",
+    "XF105"
+   ],
+   "Dayun": [
+    "CGC4253"
+   ],
+   "DongFeng": [
+    "DFL-series",
+    "EQ4252"
+   ],
+   "ERF (MAN Truck)": [
+    "E-Series"
+   ],
+   "FAW": [
+    "J6 CA4180",
+    "J6 CA4250"
+   ],
+   "Ford": [
+    "Cargo",
+    "F-Max",
+    "L-Series"
+   ],
+   "Foton": [
+    "Auman BJ425x",
+    "Auman EST A",
+    "Auman H5"
+   ],
+   "Freightliner": [
+    "Argosy",
+    "Cascadia",
+    "Century Class",
+    "Columbia",
+    "Coronado",
+    "FLA/FLB",
+    "FLC",
+    "FLD"
+   ],
+   "Fuso (Mitsubishi)": [
+    "Super Great"
+   ],
+   "Hino": [
+    "demo"
+   ],
+   "Howo": [
+    "demo"
+   ],
+   "Hyundai": [
+    "demo"
+   ],
+   "International": [
+    "demo"
+   ],
+   "Isuzu": [
+    "demo"
+   ],
+   "IVECO": [
+    "demo"
+   ],
+   "IVECO-Ling Ye": [
+    "demo"
+   ],
+   "Iveco-АМТ": [
+    "demo"
+   ],
+   "JAC": [
+    "demo"
+   ],
+   "Kalmar": [
+    "demo"
+   ],
+   "Kenworth": [
+    "demo"
+   ],
+   "Mack": [
+    "demo"
+   ]
+  }
+ },
+ {
+  "id": "trailer",
+  "name": "Прицеп",
+  "group": "commercial",
+  "list": {
+   "Abbey": [
+    "GTS VOGUE 418"
+   ],
+   "ABI": [
+    "Harmony",
+    "Jubilee"
+   ],
+   "ACE": [
+    "Award Brightstar"
+   ],
+   "Acerbi": [
+    "Полуприцеп - битумовоз",
+    "Полуприцеп - изотермический",
+    "Полуприцеп - контейнеровоз",
+    "Полуприцеп - самосвал",
+    "Полуприцеп - тентованный",
+    "Полуприцеп - цистерна"
+   ],
+   "Ackermann": [
+    "Freuhauf",
+    "Tandemanhang"
+   ],
+   "ACTM": [
+    "Тралы низкорамные"
+   ],
+   "Adige": [
+    "36SVA"
+   ],
+   "ADR Trailers": [
+    "Тяжеловозы",
+    "Цементовозы"
+   ],
+   "Adria": [
+    "Action",
+    "Adora",
+    "Altea",
+    "Forma",
+    "Maxima",
+    "Optima",
+    "Unica"
+   ],
+   "Agados": [
+    "Dona"
+   ],
+   "AirStar": [
+    "Фудтрак"
+   ],
+   "Airstream": [
+    "Trade Wind"
+   ],
+   "Aksoylu": [
+    "XXL"
+   ],
+   "Alfa": [
+    "demo"
+   ],
+   "Ali Riza Usta": [
+    "demo"
+   ],
+   "Alim": [
+    "demo"
+   ],
+   "Alka": [
+    "demo"
+   ],
+   "Alkan Karoser": [
+    "demo"
+   ],
+   "Alkom": [
+    "demo"
+   ],
+   "Alloy": [
+    "demo"
+   ],
+   "Altin Trailer": [
+    "demo"
+   ],
+   "Alur": [
+    "demo"
+   ],
+   "AMS-NN": [
+    "demo"
+   ],
+   "Andover": [
+    "demo"
+   ],
+   "ANNABURGER": [
+    "demo"
+   ]
+  }
+ },
+ {
+  "id": "swap_body",
+  "name": "Съемный кузов",
+  "group": "commercial",
+  "list": {
+   "CIMC": [
+    "Танк-контейнер"
+   ],
+   "Fliegl": [
+    "Сменный кузов, платформа"
+   ],
+   "Husmann": [
+    "SPB 20 ECN"
+   ],
+   "Kogel": [
+    "Сменный кузов, брезент",
+    "Сменный кузов, платформа",
+    "Сменный кузов, рефрижератор",
+    "Сменный кузов, фургон"
+   ],
+   "Krone": [
+    "Сменный кузов, брезент",
+    "Сменный кузов, платформа",
+    "Сменный кузов, фургон"
+   ],
+   "NTTank": [
+    "Контейнер-цистерна"
+   ],
+   "Schmitz Cargobull": [
+    "Изотермический контейнер",
+    "Сменный кузов, брезент",
+    "Сменный кузов, платформа",
+    "Сменный кузов, рефрижератор",
+    "Сменный кузов, фургон"
+   ],
+   "Sommer": [
+    "Сменный кузов, платформа",
+    "Сменный кузов, фургон"
+   ],
+   "Sonstige": [
+    "Закрытый стальной контейнер",
+    "Контейнер-цистерна",
+    "Сменный кузов, платформа",
+    "Сменный кузов, фургон",
+    "Спецконтейнер"
+   ],
+   "Wecon": [
+    "Изотермический контейнер",
+    "Сменный кузов, платформа"
+   ],
+   "Авторост": [
+    "Бортовая платформа",
+    "Самосвальный кузов"
+   ],
+   "Евроконтейнер": [
+    "Спецконтейнер"
+   ],
+   "Пухто": [
+    "20м3",
+    "27м3"
+   ],
+   "Сеспель": [
+    "demo"
+   ],
+   "Центртранстехмаш": [
+    "demo"
+   ]
+  }
+ },
+ {
+  "id": "lcv",
+  "name": "Легкий коммерческий",
+  "group": "commercial",
+  "list": {
+   "ASHOK LEYLAND": [
+    "Partner"
+   ],
+   "Asia": [
+    "Towner"
+   ],
+   "Askam (DeSoto)": [
+    "AS250"
+   ],
+   "Bajaj": [
+    "Maxima"
+   ],
+   "Barkas": [
+    "B1000"
+   ],
+   "BAW": [
+    "Fenix 1044",
+    "Fenix 1065",
+    "Fenix 3346",
+    "Tonik"
+   ],
+   "Bedford": [
+    "CF"
+   ],
+   "BMC": [
+    "Levend",
+    "Megastar"
+   ],
+   "Bremach": [
+    "T-Rex"
+   ],
+   "Cadillac": [
+    "Commercial Chassis"
+   ],
+   "Carthago": [
+    "Chic S-Plus"
+   ],
+   "Changan": [
+    "SC1021/1022",
+    "SC1030/1040"
+   ],
+   "Chevrolet": [
+    "3000-Series",
+    "Express",
+    "HHR",
+    "Silverado"
+   ],
+   "Citroen": [
+    "demo"
+   ],
+   "Dacia": [
+    "demo"
+   ],
+   "Daewoo": [
+    "demo"
+   ],
+   "DAF": [
+    "demo"
+   ],
+   "Daihatsu": [
+    "demo"
+   ],
+   "DFSK": [
+    "demo"
+   ],
+   "Dodge": [
+    "demo"
+   ],
+   "DongFeng": [
+    "demo"
+   ],
+   "FAW": [
+    "demo"
+   ],
+   "Fiat Professional": [
+    "demo"
+   ],
+   "Ford": [
+    "demo"
+   ],
+   "Foton": [
+    "demo"
+   ]
+  }
+ },
+ {
+  "id": "agricultural",
+  "name": "Сельскохозяйственный",
+  "group": "commercial",
+  "list": {
+   "Agromehanika": [
+    "AGT 850"
+   ],
+   "Agrostroj": [
+    "TZ-4K"
+   ],
+   "Ahwi": [
+    "RT"
+   ],
+   "Amazone": [
+    "Citan",
+    "D9",
+    "DMC",
+    "EDX",
+    "UG",
+    "UX 11200"
+   ],
+   "Bagram": [
+    "B/6"
+   ],
+   "Bourgault": [
+    "4100",
+    "6000",
+    "7200"
+   ],
+   "Brait": [
+    "135",
+    "135DAE",
+    "135DEB",
+    "135GB",
+    "135GC",
+    "135GD",
+    "BR-75",
+    "BR-80"
+   ],
+   "Branson": [
+    "1905H",
+    "K78",
+    "Серия 00",
+    "Серия 25C",
+    "Серия 25R",
+    "Серия F"
+   ],
+   "Buhler": [
+    "Versatile 2375",
+    "Versatile 305",
+    "Versatile 535"
+   ],
+   "Caiman": [
+    "Eco Max 50SC2",
+    "Eco Max 60SC2",
+    "Mokko 40C2",
+    "Nano 40K",
+    "Neo 50SC3",
+    "Neo 60HC3",
+    "Quatro Max 60S",
+    "Quatro Max 70S",
+    "Terro 50SC2",
+    "Trio 70C3",
+    "Turbo 1000",
+    "Vario 55H",
+    "Vario 60H",
+    "Vario 60S",
+    "Vario 70S"
+   ],
+   "Carver": [
+    "MT-650",
+    "MT-900",
+    "MTL-650"
+   ],
+   "Case IH": [
+    "Axial-Flow",
+    "Farmall",
+    "Magnum",
+    "Puma",
+    "Steiger"
+   ],
+   "Caterpillar": [
+    "320GC",
+    "525",
+    "Challenger"
+   ],
+   "Catmann": [
+    "demo"
+   ],
+   "Challenger": [
+    "demo"
+   ],
+   "Chery": [
+    "demo"
+   ],
+   "Claas": [
+    "demo"
+   ],
+   "Craftsman": [
+    "demo"
+   ],
+   "Crosser": [
+    "demo"
+   ],
+   "Deutz-Fahr": [
+    "demo"
+   ],
+   "DongFeng": [
+    "demo"
+   ],
+   "ECHO": [
+    "demo"
+   ],
+   "Energreen": [
+    "demo"
+   ],
+   "Fecon": [
+    "demo"
+   ],
+   "Fendt": [
+    "demo"
+   ]
+  }
+ },
+ {
+  "id": "autoloader",
+  "name": "Автопогрузчик",
+  "group": "commercial",
+  "list": {
+   "Akkord": [
+    "S200"
+   ],
+   "Alift": [
+    "A4W"
+   ],
+   "Amur": [
+    "DK620",
+    "DK630",
+    "DK630M",
+    "RK620",
+    "RK630"
+   ],
+   "ASV": [
+    "RC-85"
+   ],
+   "Atlet": [
+    "AJN160",
+    "EF-16",
+    "ET-20L",
+    "ZL300F"
+   ],
+   "Attack": [
+    "1130",
+    "1230"
+   ],
+   "Ausa": [
+    "T"
+   ],
+   "Avant": [
+    "216",
+    "220",
+    "420",
+    "500",
+    "600"
+   ],
+   "Balkancar": [
+    "Багги",
+    "БВ",
+    "ДВ",
+    "ЕВ",
+    "ЕП",
+    "ЕТ",
+    "Оптимал",
+    "Рекорд 1",
+    "Рекорд 2",
+    "Рекорд 3"
+   ],
+   "Baoli": [
+    "CPCD",
+    "CPD"
+   ],
+   "Baumann": [
+    "DFQ 50LL"
+   ],
+   "Bizon": [
+    "920",
+    "930",
+    "930G"
+   ],
+   "Bobcat": [
+    "463",
+    "533",
+    "553",
+    "643",
+    "753",
+    "763",
+    "773",
+    "853",
+    "873",
+    "A300",
+    "A770",
+    "S100",
+    "S130",
+    "S150",
+    "S160",
+    "S175/H",
+    "S18",
+    "S185/H",
+    "S205",
+    "S220",
+    "S250/H",
+    "S300/H",
+    "S450",
+    "S510",
+    "S530",
+    "S570",
+    "S590",
+    "S630",
+    "S650",
+    "S70",
+    "S770",
+    "S850",
+    "T140",
+    "T190",
+    "T2250",
+    "T250",
+    "T300",
+    "T3571",
+    "T40140",
+    "T40170",
+    "T590",
+    "T650",
+    "T770",
+    "TL360",
+    "TL470"
+   ],
+   "Boulder": [
+    "demo"
+   ],
+   "Brenner": [
+    "demo"
+   ],
+   "Bront": [
+    "demo"
+   ],
+   "BT Cargo": [
+    "demo"
+   ],
+   "Bull": [
+    "demo"
+   ],
+   "Bulmor": [
+    "demo"
+   ],
+   "Case": [
+    "demo"
+   ],
+   "CastLoaders": [
+    "demo"
+   ],
+   "Caterpillar": [
+    "demo"
+   ],
+   "Cathefeng": [
+    "demo"
+   ],
+   "Cayman": [
+    "demo"
+   ],
+   "Champ": [
+    "demo"
+   ]
+  }
+ },
+ {
+  "id": "bulldozers",
+  "name": "Бульдозер",
+  "group": "commercial",
+  "list": {
+   "Beezone": [
+    "D16"
+   ],
+   "Case": [
+    "1150 (K-серия)",
+    "1650 (K-серия)",
+    "1650 (M-серия)",
+    "1850 (К-серия)",
+    "2050 (M-серия)"
+   ],
+   "Caterpillar": [
+    "D10",
+    "D11",
+    "D3",
+    "D4",
+    "D5",
+    "D6",
+    "D7",
+    "D8",
+    "D9"
+   ],
+   "Cathefeng": [
+    "D6R2"
+   ],
+   "Dressta": [
+    "TD"
+   ],
+   "Fiat-Hitachi": [
+    "FD"
+   ],
+   "Furukawa": [
+    "CD5B"
+   ],
+   "HBXG": [
+    "T165-2",
+    "TY165-2"
+   ],
+   "Hitachi": [
+    "DX45"
+   ],
+   "John Deere": [
+    "1050J",
+    "1050K",
+    "700J",
+    "750J",
+    "850J",
+    "850J2"
+   ],
+   "Komatsu": [
+    "D105",
+    "D155",
+    "D20",
+    "D275",
+    "D31S",
+    "D355",
+    "D37",
+    "D375",
+    "D39",
+    "D41",
+    "D475",
+    "D50",
+    "D51",
+    "D53",
+    "D61",
+    "D63",
+    "D65",
+    "D85"
+   ],
+   "Liebherr": [
+    "PR 714",
+    "PR 722",
+    "PR 724",
+    "PR 732",
+    "PR 734 L Litronic",
+    "PR 742",
+    "PR 744",
+    "PR 752 Litronic",
+    "PR 764 Litronic"
+   ],
+   "LiuGong": [
+    "CLGB 160",
+    "CLGB 230",
+    "CLGB 320"
+   ],
+   "Massey Ferguson": [
+    "demo"
+   ],
+   "Mitsubishi": [
+    "demo"
+   ],
+   "New Holland": [
+    "demo"
+   ],
+   "Pengpu": [
+    "demo"
+   ],
+   "SEM": [
+    "demo"
+   ],
+   "Shantui": [
+    "demo"
+   ],
+   "Shehwa": [
+    "demo"
+   ],
+   "XCMG": [
+    "demo"
+   ],
+   "XGMA": [
+    "demo"
+   ],
+   "Xiagong": [
+    "demo"
+   ],
+   "Yanmar": [
+    "demo"
+   ],
+   "Zoomlion": [
+    "demo"
+   ]
+  }
+ },
+ {
+  "id": "construction",
+  "name": "Строительная",
+  "group": "commercial",
+  "list": {
+   "ABG": [
+    "Alpha",
+    "PT",
+    "Puma",
+    "Titan"
+   ],
+   "Aichi": [
+    "Автобуровые вышки"
+   ],
+   "Ammann": [
+    "AC",
+    "AFW",
+    "AP",
+    "AR",
+    "ARX",
+    "ASC",
+    "AV"
+   ],
+   "Asia": [
+    "AM518"
+   ],
+   "ASTRA": [
+    "HD8"
+   ],
+   "Atlas": [
+    "AW1120"
+   ],
+   "Atlas Copco": [
+    "Буровые установки",
+    "Компрессоры"
+   ],
+   "Atmos": [
+    "PDP 15",
+    "PDP 35"
+   ],
+   "Banut": [
+    "Бурильно-сваебойные машины"
+   ],
+   "Bauer": [
+    "Буровые установки"
+   ],
+   "Baukema": [
+    "S"
+   ],
+   "BBURG": [
+    "HD1300"
+   ],
+   "Bell": [
+    "D-Series"
+   ],
+   "Blaw-Knox": [
+    "demo"
+   ],
+   "BMS": [
+    "demo"
+   ],
+   "Bomag": [
+    "demo"
+   ],
+   "Borum": [
+    "demo"
+   ],
+   "Breining": [
+    "demo"
+   ],
+   "Brinkmann": [
+    "demo"
+   ],
+   "Brokk": [
+    "demo"
+   ],
+   "Bunker": [
+    "demo"
+   ],
+   "CAMC": [
+    "demo"
+   ],
+   "Cardwell": [
+    "demo"
+   ],
+   "Carmix": [
+    "demo"
+   ],
+   "Casagrande": [
+    "demo"
+   ]
+  }
+ },
+ {
+  "id": "crane",
+  "name": "Автокран",
+  "group": "commercial",
+  "list": {
+   "Altec": [
+    "AC26",
+    "DM47"
+   ],
+   "Bison": [
+    "Автовышки"
+   ],
+   "CKD": [
+    "AD - Series"
+   ],
+   "Demag": [
+    "AC100",
+    "AC155",
+    "AC25",
+    "AC40",
+    "AC60"
+   ],
+   "Fablok": [
+    "DST"
+   ],
+   "Faun": [
+    "HK",
+    "RTF"
+   ],
+   "Ford": [
+    "КС"
+   ],
+   "Fuso (Mitsubishi)": [
+    "Canter",
+    "Super Great"
+   ],
+   "Grove": [
+    "GBT",
+    "GMK",
+    "RT",
+    "TMS"
+   ],
+   "Hidrokon": [
+    "НК165L6+L5"
+   ],
+   "Hino": [
+    "Автокран"
+   ],
+   "Hydros": [
+    "T"
+   ],
+   "Isuzu": [
+    "Автокран"
+   ],
+   "IVECO": [
+    "demo"
+   ],
+   "KATO": [
+    "demo"
+   ],
+   "KOBELCO": [
+    "demo"
+   ],
+   "Komatsu": [
+    "demo"
+   ],
+   "Krupp": [
+    "demo"
+   ],
+   "Liebherr": [
+    "demo"
+   ],
+   "Locatelli": [
+    "demo"
+   ],
+   "Lokomo": [
+    "demo"
+   ],
+   "Marchetti": [
+    "demo"
+   ],
+   "Mazda": [
+    "demo"
+   ],
+   "Metalna": [
+    "demo"
+   ],
+   "Nissan": [
+    "demo"
+   ]
+  }
+ },
+ {
+  "id": "dredge",
+  "name": "Экскаватор",
+  "group": "commercial",
+  "list": {
+   "A LEX": [
+    "1E"
+   ],
+   "Ahlmann": [
+    "AF",
+    "AS"
+   ],
+   "Airman": [
+    "AX40UR-2C"
+   ],
+   "Akerman": [
+    "H16D",
+    "Колесные"
+   ],
+   "Atlas": [
+    "Гусенечные",
+    "Колёсные"
+   ],
+   "Atlas Copco": [
+    "240LC"
+   ],
+   "Avant": [
+    "500 серия"
+   ],
+   "Bobcat": [
+    "B730",
+    "B780",
+    "Гусеничные"
+   ],
+   "Bonny": [
+    "CE1000-7",
+    "CE1250-7",
+    "CE400-7",
+    "CE420-7",
+    "CE460-7",
+    "CE750-7"
+   ],
+   "Boulder": [
+    "BL30-25",
+    "EX10",
+    "EX22"
+   ],
+   "Case": [
+    "Гусеничный",
+    "Колесные",
+    "Мини-экскаваторы",
+    "Экскаваторы-погрузчики"
+   ],
+   "Caterpillar": [
+    "303C CR",
+    "303SR",
+    "312",
+    "318",
+    "319",
+    "320",
+    "320D",
+    "320GC",
+    "323D",
+    "324DL",
+    "325",
+    "330",
+    "330D2 L",
+    "336D",
+    "340D",
+    "349D2L",
+    "349DLME",
+    "350L",
+    "422E",
+    "422F2",
+    "426F2",
+    "428",
+    "428C",
+    "428E",
+    "428F2",
+    "432E",
+    "432F2",
+    "434E",
+    "434F",
+    "434F2",
+    "444F2",
+    "M313",
+    "M315",
+    "M316",
+    "M322",
+    "Гусеничные",
+    "Колёсные",
+    "Экскаваторы-погрузчики"
+   ],
+   "Cathefeng": [
+    "08-7A",
+    "18-6L",
+    "22-9B",
+    "306E2",
+    "307E2",
+    "313D2GC",
+    "336D2",
+    "35-9L",
+    "70-9B",
+    "85-9L",
+    "90-9LS",
+    "EX220-8",
+    "M320D2",
+    "PC210-8",
+    "PC220-8",
+    "PC240-8",
+    "PC360-8",
+    "PC450-8"
+   ],
+   "Changlin": [
+    "demo"
+   ],
+   "Cukurova": [
+    "demo"
+   ],
+   "Daewoo": [
+    "demo"
+   ],
+   "Doosan": [
+    "demo"
+   ],
+   "Eurocomach": [
+    "demo"
+   ],
+   "Fermec": [
+    "demo"
+   ],
+   "Fiat Kobelco": [
+    "demo"
+   ],
+   "Fiat-Hitachi": [
+    "demo"
+   ],
+   "Forway": [
+    "demo"
+   ],
+   "Furukawa": [
+    "demo"
+   ],
+   "Gallmac": [
+    "demo"
+   ],
+   "Gehl": [
+    "demo"
+   ]
+  }
+ },
+ {
+  "id": "municipal",
+  "name": "Коммунальная",
+  "group": "commercial",
+  "list": {
+   "Aerial": [
+    "K17T"
+   ],
+   "Aichi": [
+    "Автовышки"
+   ],
+   "Aurora": [
+    "AS1212",
+    "AS1413",
+    "SR1623D"
+   ],
+   "Belos": [
+    "TransPro 54"
+   ],
+   "Bomag": [
+    "BC 972RB"
+   ],
+   "Bomford Turner": [
+    "Flailbot"
+   ],
+   "Boschung": [
+    "B4",
+    "Jetbroom",
+    "S3"
+   ],
+   "Bucher": [
+    "Подметально-вакуумные машины",
+    "Снегоуборочные машины"
+   ],
+   "Ceksan": [
+    "Hamarat",
+    "VKM"
+   ],
+   "Cela": [
+    "Автовышки"
+   ],
+   "Cella": [
+    "Автовышки"
+   ],
+   "CO.ME.T Officine": [
+    "Eurosky"
+   ],
+   "Daewoo": [
+    "Novus"
+   ],
+   "DAF": [
+    "demo"
+   ],
+   "Dasan": [
+    "demo"
+   ],
+   "Dinolift": [
+    "demo"
+   ],
+   "Donghae": [
+    "demo"
+   ],
+   "Dulevo": [
+    "demo"
+   ],
+   "Ecopress": [
+    "demo"
+   ],
+   "Etramo": [
+    "demo"
+   ],
+   "Faun": [
+    "demo"
+   ],
+   "Favero": [
+    "demo"
+   ],
+   "FAW": [
+    "demo"
+   ],
+   "Ford": [
+    "demo"
+   ],
+   "Foton": [
+    "demo"
+   ]
+  }
+ },
+ {
+  "id": "motorcycle",
+  "name": "Мотоцикл",
+  "group": "moto",
+  "list": {
+   "ABM": [
+    "Alpha 110",
+    "Alpha 50",
+    "FX 200",
+    "GX 250",
+    "Helper 250",
+    "Jazz 125",
+    "MSX 125",
+    "Pegas 200",
+    "Phantom 125",
+    "Raptor 140",
+    "Raptor 200",
+    "Raptor 250",
+    "Raptor 50",
+    "Road Star 250",
+    "RX 200",
+    "SX 250",
+    "ZR 200",
+    "ZR 250"
+   ],
+   "Aermacchi": [
+    "350 TV",
+    "Ala Azzurra",
+    "Ala Bianca",
+    "Ala D Oro",
+    "Ala Verde",
+    "Chimera",
+    "Wisconsin"
+   ],
+   "AJP": [
+    "PR3",
+    "PR4",
+    "PR5",
+    "PR7"
+   ],
+   "AJS": [
+    "7R",
+    "Cadwell",
+    "JSM",
+    "Model 18",
+    "Model 20",
+    "Model 31",
+    "Porcupine",
+    "TN12",
+    "TN25"
+   ],
+   "Alfer": [
+    "TX 300",
+    "VR 2000",
+    "VR 250"
+   ],
+   "Amazonas": [
+    "1600"
+   ],
+   "American Eagle": [
+    "Falcon MS Cruiser",
+    "Raptor",
+    "Raven",
+    "Street Fighter"
+   ],
+   "American IronHorse": [
+    "Tejas",
+    "Texas Chopper"
+   ],
+   "Apollo": [
+    "Elite",
+    "Freeride",
+    "Junior",
+    "Mini",
+    "Open",
+    "Start"
+   ],
+   "Aprilia": [
+    "AF1 125",
+    "AF1 50",
+    "Blue Marlin 1000",
+    "Classic 125",
+    "Classic 50",
+    "Dorsoduro 1200",
+    "Dorsoduro 750",
+    "Dorsoduro 900",
+    "ETV 1000 Caponord",
+    "ETV 1200 Caponord",
+    "ETX 125",
+    "ETX 350",
+    "ETX 600",
+    "Mana 850",
+    "Moto 6.5",
+    "MX 125",
+    "MX 50",
+    "MXV 4.5",
+    "Pegaso 125",
+    "Pegaso 600",
+    "Pegaso 650",
+    "Pegaso 650 Factory",
+    "Pegaso 650 Strada",
+    "Pegaso 650 Trail",
+    "Pegaso Tuscany Tibet",
+    "RS 125",
+    "RS 250",
+    "RS 50",
+    "RS4 125",
+    "RS4 50",
+    "RST 1000 Futura",
+    "RSV Mille",
+    "RSV1000 R",
+    "RSV4",
+    "RX 125",
+    "RX 250",
+    "RX 50",
+    "RXV 450",
+    "RXV 550",
+    "SL 1000 Falco",
+    "SL 750 Shiver",
+    "SL 900 Shiver",
+    "SX 125",
+    "SX 50",
+    "SXV 450",
+    "SXV 550",
+    "Tuareg 125",
+    "Tuareg 250",
+    "Tuareg 50",
+    "Tuareg 600",
+    "Tuono 1000",
+    "Tuono 125",
+    "Tuono 50",
+    "Tuono V4",
+    "TX 125",
+    "TX 311M",
+    "TXR 312"
+   ],
+   "Arch Motorcycle": [
+    "1s",
+    "KRGT-1",
+    "Method 143"
+   ],
+   "Ardie": [
+    "RBZ 205/206"
+   ],
+   "Ariel": [
+    "Ace",
+    "Arrow",
+    "Golden Arrow",
+    "Leader",
+    "Red Hunter",
+    "Square Four"
+   ],
+   "Arlen Ness": [
+    "demo"
+   ],
+   "ArmadA": [
+    "demo"
+   ],
+   "Asiawing": [
+    "demo"
+   ],
+   "ATK": [
+    "demo"
+   ],
+   "Avantis": [
+    "demo"
+   ],
+   "Azel": [
+    "demo"
+   ],
+   "Bajaj": [
+    "demo"
+   ],
+   "Baltmotors": [
+    "demo"
+   ],
+   "BamX": [
+    "demo"
+   ],
+   "Bars": [
+    "demo"
+   ],
+   "BASHAN": [
+    "demo"
+   ],
+   "Benelli": [
+    "demo"
+   ]
+  }
+ },
+ {
+  "id": "scooters",
+  "name": "Скутер",
+  "group": "moto",
+  "list": {
+   "ABM": [
+    "Cyclone",
+    "Delta",
+    "Elite",
+    "Favorit",
+    "Flash",
+    "Gust",
+    "Sky",
+    "Sprinter",
+    "Storm L",
+    "Storm SL",
+    "Storm YSL",
+    "Street Racing",
+    "Thunder",
+    "Tornado 150",
+    "Tornado 50",
+    "Tornado S",
+    "Volcan 150",
+    "Wind",
+    "ZX150S",
+    "ZX50S"
+   ],
+   "Aermacchi": [
+    "Zeffiro"
+   ],
+   "AJS": [
+    "Digita",
+    "Firefox",
+    "Insetto",
+    "Modena",
+    "Sorvio"
+   ],
+   "Aprilia": [
+    "Area 51",
+    "Atlantic 125/250",
+    "Atlantic 400 Sprint",
+    "Atlantic 500",
+    "Gulliver",
+    "Habana",
+    "Leonardo 125/150",
+    "Mojito",
+    "Rally",
+    "Scarabeo 100",
+    "Scarabeo 125",
+    "Scarabeo 150",
+    "Scarabeo 200",
+    "Scarabeo 250",
+    "Scarabeo 400",
+    "Scarabeo 50",
+    "Scarabeo 500",
+    "Sonic",
+    "SportCity 125",
+    "SportCity 200",
+    "SportCity 250",
+    "SportCity 300",
+    "SportCity 50",
+    "SR 125",
+    "SR 50",
+    "SR 50 R",
+    "SR Max 125",
+    "SR Max 300",
+    "SR Motard 125",
+    "SR Motard 50",
+    "SRV 850"
+   ],
+   "ArmadA": [
+    "RT-50"
+   ],
+   "ASA": [
+    "Moped"
+   ],
+   "Atlant": [
+    "125cc",
+    "150cc",
+    "50cc"
+   ],
+   "Ayron": [
+    "150cc",
+    "50cc"
+   ],
+   "Azel": [
+    "Aries",
+    "Sweet"
+   ],
+   "Bajaj": [
+    "125 Classic"
+   ],
+   "Baltmotors": [
+    "Biwis 125",
+    "E-CHARM 150",
+    "E-JEWEL 150",
+    "Galactica 125",
+    "Galactica 50",
+    "Galaxy 125",
+    "Hiker 125",
+    "Hiker 2.0 Electro",
+    "Hiker 50",
+    "Joy 50",
+    "Maxxy 125",
+    "Mint 50",
+    "Smile 50",
+    "Style 50"
+   ],
+   "Baotian (UMC)": [
+    "BT151T-2B6",
+    "BT49QT-11",
+    "BT49QT-12",
+    "BT49QT-2",
+    "BT49QT-20B3",
+    "BT49QT-7D",
+    "BT49QT-9",
+    "BT49QT-9F3"
+   ],
+   "Benelli": [
+    "491",
+    "Adiva",
+    "Caffe Nero 125",
+    "Caffe Nero 150",
+    "Caffe Nero 250",
+    "Pepe",
+    "QattroNove X",
+    "Velvet 125",
+    "Velvet 150",
+    "Velvet 250"
+   ],
+   "Benzhou": [
+    "demo"
+   ],
+   "Blata": [
+    "demo"
+   ],
+   "BMW": [
+    "demo"
+   ],
+   "Cagiva": [
+    "demo"
+   ],
+   "CFMOTO": [
+    "demo"
+   ],
+   "Corsa": [
+    "demo"
+   ],
+   "CPI": [
+    "demo"
+   ],
+   "Cronus": [
+    "demo"
+   ],
+   "CSR": [
+    "demo"
+   ],
+   "Daelim": [
+    "demo"
+   ],
+   "Defiant": [
+    "demo"
+   ],
+   "Derbi": [
+    "demo"
+   ]
+  }
+ },
+ {
+  "id": "atv",
+  "name": "Мотовездеход",
+  "group": "moto",
+  "list": {
+   "ABM": [
+    "Apache 150",
+    "Apache 200",
+    "Apache 400",
+    "ATV-100",
+    "ATV-150",
+    "ATV-90",
+    "Ninja",
+    "Scorpion 110",
+    "Scorpion 125",
+    "Scorpion 150",
+    "Scorpion 250",
+    "UTV 500"
+   ],
+   "Access": [
+    "AX 700U 4x4 EFI",
+    "BEAR 400 4x4",
+    "SP 300 S",
+    "SP 400 S EFI",
+    "SP 450 SM"
+   ],
+   "Adly": [
+    "150U",
+    "220U",
+    "300 Sport",
+    "320S",
+    "320U",
+    "50",
+    "500S",
+    "600U",
+    "Hurricane 500S",
+    "MK 320"
+   ],
+   "Aeon": [
+    "Cobra 100",
+    "Cobra 220",
+    "Cobra 320",
+    "Cobra 350",
+    "Cobra 50",
+    "Crossland 300",
+    "Crossland 350",
+    "SXS Cube 350 4WD"
+   ],
+   "Agro": [
+    "8x8 750 HDi"
+   ],
+   "AIE Motor": [
+    "4cross",
+    "MagMax"
+   ],
+   "Applestone": [
+    "APU",
+    "UTV"
+   ],
+   "Arctic Cat": [
+    "1000 Series",
+    "150 Series",
+    "300 Series",
+    "400 Series",
+    "450 Series",
+    "500 Series",
+    "550 Series",
+    "650 Series",
+    "700 Series",
+    "Prowler",
+    "Wildcat"
+   ],
+   "Argo": [
+    "Avenger",
+    "Bigfoot",
+    "Centaur",
+    "Conquest",
+    "Frontier",
+    "Response",
+    "Vanguard"
+   ],
+   "ArmadA": [
+    "ATV 110",
+    "ATV 150",
+    "ATV 150C",
+    "ATV 200",
+    "ATV 250",
+    "ATV 250C",
+    "ATV 300A",
+    "ATV 50",
+    "ATV 700",
+    "PRO",
+    "YACOTA 50",
+    "YACOTA KIDS 7",
+    "YACOTA KIDS 8",
+    "YACOTA KIDS LUX 8"
+   ],
+   "ASA": [
+    "ATV110E",
+    "ATV150E",
+    "ATV250S",
+    "ATV300A",
+    "ATV50A",
+    "ATV70A",
+    "ATV750",
+    "ATV90A",
+    "Go Cart"
+   ],
+   "Avantis": [
+    "Classic 200",
+    "Classic 6",
+    "Classic 7",
+    "Classic 8",
+    "Classic 800W",
+    "Classic Mini",
+    "Forester",
+    "H4 Mini",
+    "Hunter 150",
+    "Hunter 200",
+    "Hunter 250",
+    "Hunter 7",
+    "Hunter 8",
+    "Hunter Junior",
+    "Mirage 7",
+    "Mirage 8",
+    "Neo",
+    "Patriot 8",
+    "Pilot",
+    "Piton",
+    "Racer",
+    "Scorpion",
+    "Termit"
+   ],
+   "Bajaj": [
+    "Quto"
+   ],
+   "Baltmotors": [
+    "demo"
+   ],
+   "BamX": [
+    "demo"
+   ],
+   "BASHAN": [
+    "demo"
+   ],
+   "Bison": [
+    "demo"
+   ],
+   "BMGK": [
+    "demo"
+   ],
+   "Bonai": [
+    "demo"
+   ],
+   "Bourgets Bike Works": [
+    "demo"
+   ],
+   "BRP": [
+    "demo"
+   ],
+   "BSE": [
+    "demo"
+   ],
+   "Bugfaster": [
+    "demo"
+   ],
+   "Buggy Jump": [
+    "demo"
+   ],
+   "Bull": [
+    "demo"
+   ]
+  }
+ },
+ {
+  "id": "snowmobile",
+  "name": "Снегоход",
+  "group": "moto",
+  "list": {
+   "ABM": [
+    "Apache Track",
+    "Ladoga",
+    "Wind 320"
+   ],
+   "AD Boivin": [
+    "Snow Hawk 800"
+   ],
+   "Alpina": [
+    "Sherpa"
+   ],
+   "Arctic Cat": [
+    "Bearcat",
+    "F-Series",
+    "M-Series",
+    "Pantera",
+    "Panther",
+    "Sabercat",
+    "Sno Pro",
+    "T660",
+    "TZ1",
+    "XF-Series",
+    "ZR-Series"
+   ],
+   "ArmadA": [
+    "PD150",
+    "PD250",
+    "SR150"
+   ],
+   "ASA": [
+    "Snow Scooter 301",
+    "Snow Scooter 305"
+   ],
+   "Baltmotors": [
+    "Barboss",
+    "SnowDog"
+   ],
+   "BMW Alpina": [
+    "Sherpa",
+    "SUPERCLASS Mk2 Xtreme"
+   ],
+   "BRP": [
+    "Lynx 49 Ranger",
+    "Lynx 49 Ranger 600",
+    "Lynx 49 Ranger 900",
+    "Lynx 59 Ranger",
+    "Lynx 59 YetI 600",
+    "Lynx 69 Alpine",
+    "Lynx 69 Ranger",
+    "Lynx 6900",
+    "Lynx Adventure",
+    "Lynx BoonDocker 600",
+    "Lynx BoonDocker 800",
+    "Lynx BoonDocker 850",
+    "Lynx Commander 1200",
+    "Lynx Commander 600",
+    "Lynx Commander 800",
+    "Lynx Commander 900",
+    "Lynx Commander Touratech 800",
+    "Lynx Explorer",
+    "Lynx Forest Fox",
+    "Lynx GLX 5900",
+    "Lynx Rave",
+    "Lynx Safari",
+    "Lynx ST",
+    "Lynx Xterrain",
+    "Lynx Xtrim 550",
+    "Lynx Xtrim 600",
+    "Lynx Xtrim Commander 600",
+    "Lynx Xtrim Commander 800",
+    "Lynx Xtrim RE 600",
+    "Lynx Xtrim RE 800",
+    "Lynx Xtrim RE 850",
+    "Lynx Xtrim SC 600",
+    "Lynx Xtrim SC 800",
+    "Lynx Xtrim SC 900",
+    "Lynx Yeti",
+    "Lynx Yeti Pro Army",
+    "Ski-Doo Backcountry X 800",
+    "Ski-Doo Backcountry X 850",
+    "Ski-Doo Elite",
+    "Ski-Doo Expedition 1000",
+    "Ski-Doo Expedition 1300",
+    "Ski-Doo Expedition 600",
+    "Ski-Doo Expedition 800",
+    "Ski-Doo Expedition 900",
+    "Ski-Doo Expedition SE 1200",
+    "Ski-Doo Expedition Sport 550F",
+    "Ski-Doo Expedition Xtreme 850",
+    "Ski-Doo Formula",
+    "Ski-Doo Freeride",
+    "Ski-Doo Freestyle",
+    "Ski-Doo Grand Touring 500",
+    "Ski-Doo Grand Touring 600",
+    "Ski-Doo Grand Touring 700",
+    "Ski-Doo Grand Touring 900 ACE",
+    "Ski-Doo Grand Touring V-1000",
+    "Ski-Doo GSX",
+    "Ski-Doo GTX 1200",
+    "Ski-Doo GTX 380",
+    "Ski-Doo GTX 500",
+    "Ski-Doo GTX 550",
+    "Ski-Doo GTX 600",
+    "Ski-Doo GTX 800",
+    "Ski-Doo Legend",
+    "Ski-Doo Mach Z",
+    "Ski-Doo MXZ Renegade X 1000",
+    "Ski-Doo MXZ Renegade X 1200",
+    "Ski-Doo MXZ Renegade X 600",
+    "Ski-Doo MXZ Renegade X 800",
+    "Ski-Doo MXZ Sport 600",
+    "Ski-Doo MXZ X-racing 440",
+    "Ski-Doo MXZ X-RS 600",
+    "Ski-Doo MXZ X-RS 850",
+    "Ski-Doo Renegade X-RS 800",
+    "Ski-Doo Renegade X-RS 850",
+    "Ski-Doo Renegade X-RS 900",
+    "Ski-Doo Skandic 500",
+    "Ski-Doo Skandic 550",
+    "Ski-Doo Skandic 600",
+    "Ski-Doo Skandic 900",
+    "Ski-Doo Summit 1000",
+    "Ski-Doo Summit 500",
+    "Ski-Doo Summit 550",
+    "Ski-Doo Summit 600",
+    "Ski-Doo Summit 700",
+    "Ski-Doo Summit 800",
+    "Ski-Doo Summit 850",
+    "Ski-Doo Summit Burton 800",
+    "Ski-Doo Touring",
+    "Ski-Doo Tundra 300F",
+    "Ski-Doo Tundra 550",
+    "Ski-Doo Tundra 600",
+    "Ski-Doo Tundra 800"
+   ],
+   "CFMOTO": [
+    "CF250"
+   ],
+   "Cronus": [
+    "CR9V",
+    "TT200P"
+   ],
+   "Fighter": [
+    "Snow"
+   ],
+   "Fishride": [
+    "Классика",
+    "Классика+",
+    "Компакт",
+    "Эксклюзив+"
+   ],
+   "Fun&Tec": [
+    "demo"
+   ],
+   "IRBIS": [
+    "demo"
+   ],
+   "John Deere": [
+    "demo"
+   ],
+   "KOiRA": [
+    "demo"
+   ],
+   "Lebedev Motors": [
+    "demo"
+   ],
+   "Manfred": [
+    "demo"
+   ],
+   "Minsk (Минск)": [
+    "demo"
+   ],
+   "Motoland": [
+    "demo"
+   ],
+   "Paxus": [
+    "demo"
+   ],
+   "Phantom Snowmobiles": [
+    "demo"
+   ],
+   "Polaris": [
+    "demo"
+   ],
+   "Pomor": [
+    "demo"
+   ]
+  }
+ }
+]

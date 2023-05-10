@@ -1,0 +1,21 @@
+05-03-2022 13:53:02
+{"check":"22jm!4+{brXo[!6xB5p+0JK","body":"\u0422\u0435\u0441\u0442\u043e\u0432\u043e\u0435 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0435","main_field":"+789081363151","parameters_values":"{\"login\":\"smsuser\",\"pass\":\"password\"}"}
+
+"Invalid content-type"
+
+__________________________________________________
+
+05-03-2022 13:53:39
+{"check":"22jm!4+{brXo[!6xB5p+0JK","body":"\u0422\u0435\u0441\u0442\u043e\u0432\u043e\u0435 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0435","main_field":"+789081363151","parameters_values":"{\"login\":\"smsuser\",\"pass\":\"password\"}"}
+
+"Invalid content-type"
+
+__________________________________________________
+
+05-03-2022 13:55:50
+{"check":"22jm!4+{brXo[!6xB5p+0JK","body":"\u0422\u0435\u0441\u0442\u043e\u0432\u043e\u0435 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0435","main_field":"+789202117790","parameters_values":"{\"login\":\"smsuser\",\"pass\":\"password\"}"}
+
+"Invalid content-type"
+
+__________________________________________________
+

@@ -1,0 +1,7 @@
+User-agent: *
+
+Disallow: /shop
+Disallow: /parts
+Disallow: /originalnye-katalogi?
+Disallow: /users/confirm_contact?
+Disallow: /users
